@@ -1,35 +1,101 @@
-/* 
-Color background: #EFEFEF
-Color fonts: #FF7848
-Color fonts2:#E3805C
-Color background2: #FFFFFF
-*/
+/* font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif; */
 
-body{
-    background-color: #efefef;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-h2{
-    color: #ff7848;
+body {
+    background-color: #fff;
+    font-family: sans-serif;
+    max-width: 2480px;
+    max-height: 3508px;
+    font-family: 'Open Sans', sans-serif;
 }
 
-h3, p{
-    color: black;
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 3em;
+    font-weight: 600;
+    text-transform: uppercase;
 }
 
-h4{
-    color: #737376
+h2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: 600;
 }
 
-/* .avatar{
-    max-width: 200px;
-} */
+h3 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1em;
+    text-transform: uppercase;
+    font-weight: 300;
+}
 
-.avatar img{
-height: 130px;
-border-radius: 50%;
-margin: 5px;
-overflow: hidden;
-display: flex;
-justify-content: center;
+.container-one {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.header {
+    background-color: #004aad;
+    width: 100%;
+    height: 220px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 0;
+}
+
+.header h2 {
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+.container {
+    max-width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.space {
+    width: 5px;
+    height: 100vh;
+    background-color: gray;
+    margin: 2em;
+
+}
+
+.contacts {}
+
+.tech {}
+
+.skills {}
+
+.professional {}
+
+.languages {}
+
+.formation {}
+
+
+#footer {
+    background-color: #004aad;
+    width: 100%;
+    height: 60px;
+    margin-top: 2em;
+    margin-bottom: 1em;
 }
