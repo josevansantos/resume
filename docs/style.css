@@ -13,6 +13,7 @@ font-family: 'Roboto', sans-serif; */
 }
 
 body {
+    display: block;
     background-color: #fff;
     font-family: sans-serif;
     max-width: 2480px;
