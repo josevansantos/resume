@@ -8,6 +8,7 @@ font-family: 'Roboto', sans-serif; */
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    text-decoration: none;
 }
 
 body {
@@ -81,15 +82,23 @@ h3 {
 
 .contacts {}
 
-.tech {}
 
-.skills {}
+.tech li {
+    text-transform: capitalize;
+}
+
+
+.skills li {
+    text-transform: capitalize;
+}
 
 .professional {}
 
 .languages {}
 
-.formation {}
+.formation h3 {
+    text-transform: uppercase;
+}
 
 
 #footer {
