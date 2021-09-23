@@ -86,9 +86,6 @@ h4 {
 
 }
 
-.contacts {}
-
-
 .tech li {
     text-transform: capitalize;
 }
@@ -97,10 +94,6 @@ h4 {
 .skills li {
     text-transform: capitalize;
 }
-
-.professional {}
-
-.languages {}
 
 .formation h3 {
     text-transform: uppercase;
