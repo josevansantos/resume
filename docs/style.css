@@ -126,4 +126,12 @@ h4 {
     .container {
         display: block;
     }
+
+    .profile p {
+        text-align: left;
+    }
+
+    .professional p {
+        text-align: left;
+    }
 }
