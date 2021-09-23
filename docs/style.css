@@ -90,6 +90,19 @@ h4 {
     text-transform: uppercase;
 }
 
+.profile p {
+    margin-top: 0.5em;
+    text-align: justify;
+}
+
+.professional p {
+    margin-top: 0.5em;
+    text-align: justify;
+}
+
+.languages h4 {
+    font-weight: 500;
+}
 
 #footer {
     background-color: #004aad;
