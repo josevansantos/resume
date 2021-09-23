@@ -95,13 +95,15 @@ h4 {
     margin-bottom: 1em;
 }
 
-@media screen and (max-width: 700px) {
+@media (max-width: 700px) {
     .header h1 {
         font-size: 1.5em;
+        text-align: center;
     }
 
     .header h2 {
         font-size: 0.75em;
+        text-align: center;
     }
 
     .container {
