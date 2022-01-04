@@ -1,154 +1,108 @@
-<div>
+# JOSEVAN BATISTA DOS SANTOS
 
-    <section class="header">
+## desenvolvedor javascript jr
 
-        # josevan batista dos santos
+## bio profissional
 
-        ## desenvolvedor javascript jr
+Sou um profissional com bom relacionamento interpessoal, com disposição para aprender e também para
+ajudar quem precisa. Tenho formação e experiência profissional na área financeira. No momento estou
+procurando oportunidades como desenvolvedor.
 
-    </section>
+Atualmente minhas habilidades técnicas são: HTML, CSS, JavaScript(ES6+), Node.JS, Express, React, Git, SQL (MySQL).
 
-    <div class="container">
 
-        <div class="container-left">
+## contatos
 
-            <section class="profile">
+* Celular: [(62) 99280-3321](tel:+5562992803321)
 
-                ## bio profissional
+* Email: [contato@josevansantos.dev](mailto:contato@josevansantos.dev)
 
-                Sou um profissional com bom relacionamento interpessoal, com disposição para aprender e também para
-                ajudar quem precisa. Tenho formação e experiência profissional na área financeira. No momento estou
-                procurando oportunidades como desenvolvedor.
+* Linkedin: [@josevansantos](https://www.linkedin.com/in/josevansantos/)
 
-                Atualmente minhas habilidades técnicas são: HTML, CSS, JavaScript(ES6+), Node.JS, Express, React, Git,
-                SQL (MySQL).
+* Site: [www.josevansantos.dev](https://www.josevansantos.dev)
 
-            </section>
+## tecnologias e framesworks
 
-            <section class="contacts">
+* html
 
-                ## contatos
+* css
 
-                * Celular: [(62) 99280-3321](tel:+5562992803321)
+* javascript
 
-                * Email: [contato@josevansantos.dev](mailto:contato@josevansantos.dev)
+* nodejs
 
-                * Linkedin: [@josevansantos](https://www.linkedin.com/in/josevansantos/)
+* react
 
-                * Site: [www.josevansantos.dev](https://www.josevansantos.dev)
+* mysql
 
-            </section>
+* git
 
-            <section class="tech">
+* linux debian/ubuntu
 
-                ## tecnologias e framesworks
 
-                * html
 
-                * css
+## habilidades
 
-                * javascript
+* soluções de problemas
 
-                * nodejs
+* visão analítica e lógica
 
-                * react
+* metodologia ágil
 
-                * mysql
+* boa comunicação
 
-                * git
+* pensamento estratégico
 
-                * linux debian/ubuntu
+* otimização de processos
 
-            </section>
+* trabalho em equipe
 
-            <section class="skills">
+* gestão de tempo
 
-                ## habilidades
 
-                * soluções de problemas
+## resumo da carreira
 
-                * visão analítica e lógica
+### analista financeiro III
 
-                * metodologia ágil
+#### Diamante Agrícola S.A. | abril 2018 a julho 2019
 
-                * boa comunicação
+Desenvolvimento e implementação do processo orçamentário juntamente com os departamentos de contabilidade e TI; conciliação bancária diária; recebimento e liquidação de cheques; cadastro e análise de clientes; contas a pagar; desenvolvimento de planilhas para diversos departamentos.
 
-                * pensamento estratégico
 
-                * otimização de processos
+## idiomas
 
-                * trabalho em equipe
+#### EF Standard English Test (EF SET) - B1 Intermediate
 
-                * gestão de tempo
+## Formação acadêmica e cursos
 
-            </section>
+### rocketseat
 
-        </div>
+#### Ignite - trilha react
 
-        <div class="container-right">
+#### Curso em andamento
 
-            <section class="professional">
+Tecnologias aprendidas: Styled Components, MirageJS, Context API, Hooks, Axios, Next.js, Chakra UI,
+Jest, Testing Library
 
-                ## resumo da carreira
+### digital house brasil
 
-                ### analista financeiro III
+#### Desenvolvimento Web Full Stack
 
-                #### Diamante Agrícola S.A. | abril 2018 a julho 2019
+#### Cursado entre fev. 2021 a ago. 2021
 
-                Desenvolvimento e implementação do processo orçamentário juntamente com os departamentos de
-                contabilidade e TI; conciliação bancária diária; recebimento e liquidação de cheques; cadastro e análise
-                de clientes; contas a pagar; desenvolvimento de planilhas para diversos departamentos.
+Tecnologias aprendidas: HTML, CSS, JavaScript, Node JS, Express, MySQL,Sequelize, React, Git.
 
-            </section>
+### ibmec
 
-            <section class="languages">
+#### Mba em Finanças
 
-                ## idiomas
+#### Cursado entre fev. 2019 a ago. 2020
 
-                #### EF Standard English Test (EF SET) - B1 Intermediate
+Disciplinas cursadas: Controle Financeiro e Investimentos, Planejamento Financeiro e Tributário, Análise
+Estratégica, Finanças Corporativas.
 
-            </section>
+### pontifícia universidade católica de goiás
 
-            <section class="formation">
+#### Bacharelado em Administração
 
-                ## Formação acadêmica e cursos
-
-                ### rocketseat
-
-                #### Ignite - trilha react
-
-                #### Curso em andamento
-
-                Tecnologias aprendidas: Styled Components, MirageJS, Context API, Hooks, Axios, Next.js, Chakra UI,
-                Jest, Testing Library
-
-                ### digital house brasil
-
-                #### Desenvolvimento Web Full Stack
-
-                #### Cursado entre fev. 2021 a ago. 2021
-
-                Tecnologias aprendidas: HTML, CSS, JavaScript, Node JS, Express, MySQL,Sequelize, React, Git.
-
-                ### ibmec
-
-                #### Mba em Finanças
-
-                #### Cursado entre fev. 2019 a ago. 2020
-
-                Disciplinas cursadas: Controle Financeiro e Investimentos, Planejamento Financeiro e Tributário, Análise
-                Estratégica, Finanças Corporativas.
-
-                ### pontifícia universidade católica de goiás
-
-                #### Bacharelado em Administração
-
-                #### Cursado entre fev. 2014 e dez. 2017
-
-            </section>
-
-        </div>
-
-    </div>
-
-</div>
+#### Cursado entre fev. 2014 e dez. 2017
