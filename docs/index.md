@@ -1,8 +1,8 @@
 # JOSEVAN BATISTA DOS SANTOS
 
-## desenvolvedor javascript jr
+## DESENVOLVEDOR FULLSTACK
 
-## bio profissional
+## BIO PROFISSIONAL
 
 Sou um profissional com bom relacionamento interpessoal, com disposição para aprender e também para
 ajudar quem precisa. Tenho formação e experiência profissional na área financeira. No momento estou
@@ -10,8 +10,7 @@ procurando oportunidades como desenvolvedor.
 
 Atualmente minhas habilidades técnicas são: HTML, CSS, JavaScript(ES6+), Node.JS, Express, React, Git, SQL (MySQL).
 
-
-## contatos
+## CONTATOS
 
 * Celular: [(62) 99280-3321](tel:+5562992803321)
 
@@ -21,70 +20,70 @@ Atualmente minhas habilidades técnicas são: HTML, CSS, JavaScript(ES6+), Node.
 
 * Site: [www.josevansantos.dev](https://www.josevansantos.dev)
 
-## tecnologias e framesworks
+## TECNOLOGIAS E FRAMESWORKS
 
-* html
+* HTML
 
-* css
+* CSS
 
-* javascript
+* JAVASCRIPT
 
-* nodejs
+* NODEJS
 
-* react
+* REACT
 
-* mysql
+* REACT NATIVE
 
-* git
+* MYSQL
 
-* linux debian/ubuntu
+* GIT
 
-
-
-## habilidades
-
-* soluções de problemas
-
-* visão analítica e lógica
-
-* metodologia ágil
-
-* boa comunicação
-
-* pensamento estratégico
-
-* otimização de processos
-
-* trabalho em equipe
-
-* gestão de tempo
+* LINUX DEBIAN/UBUNTU
 
 
-## resumo da carreira
+## HABILIDADES
 
-### analista financeiro III
+* Soluções de problemas
+* Visão analítica e lógica
+* Metodologia ágil
+* Boa comunicação
+* Pensamento estratégico
+* Otimização de processos
+* Trabalho em equipe
+* Gestão de tempo
 
-#### Diamante Agrícola S.A. | abril 2018 a julho 2019
+## RESUMO DA CARREIRA
 
-Desenvolvimento e implementação do processo orçamentário juntamente com os departamentos de contabilidade e TI; conciliação bancária diária; recebimento e liquidação de cheques; cadastro e análise de clientes; contas a pagar; desenvolvimento de planilhas para diversos departamentos.
+### Full Stack Developer
 
+#### DDR Technologies | novembro 2021 – atualmente
 
-## idiomas
+Trabalhando no desenvolvimento e manutenção de sistemas web e aplicativos.
+
+Principais tecnologias: 
+ * Typescript
+ * React Native
+ * Angular
+ * ReactJS
+ * Redux
+ * Styled-components
+ * Adonis
+## IDIOMAS
 
 #### EF Standard English Test (EF SET) - B1 Intermediate
 
-## Formação acadêmica e cursos
+## FORMAÇÃO ACADÊMICA E CURSOS
 
-### rocketseat
+### Rocketseat
 
-#### Ignite - trilha react
+#### Ignite
 
 #### Curso em andamento
 
 Tecnologias aprendidas: Styled Components, MirageJS, Context API, Hooks, Axios, Next.js, Chakra UI,
 Jest, Testing Library
 
-### digital house brasil
+### Digital House Brasil
 
 #### Desenvolvimento Web Full Stack
 
@@ -92,7 +91,7 @@ Jest, Testing Library
 
 Tecnologias aprendidas: HTML, CSS, JavaScript, Node JS, Express, MySQL,Sequelize, React, Git.
 
-### ibmec
+### IBMEC
 
 #### Mba em Finanças
 
@@ -101,8 +100,10 @@ Tecnologias aprendidas: HTML, CSS, JavaScript, Node JS, Express, MySQL,Sequelize
 Disciplinas cursadas: Controle Financeiro e Investimentos, Planejamento Financeiro e Tributário, Análise
 Estratégica, Finanças Corporativas.
 
-### pontifícia universidade católica de goiás
+### PONTIFÍCIA UNIVERSIDADE CATÓLICA DE GOIÁS – PUCGO
 
 #### Bacharelado em Administração
 
 #### Cursado entre fev. 2014 e dez. 2017
+
+
